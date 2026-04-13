@@ -1,0 +1,23 @@
+﻿[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------< com.fastrail:fastrail-backend >--------------------
+[INFO] Building FastRail Backend 1.0.0
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.3.2:clean (default-clean) @ fastrail-backend ---
+[INFO] Deleting D:\Programming\Project\SaravarishiProject\Backend\target
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ fastrail-backend ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] Copying 0 resource from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.11.0:compile (default-compile) @ fastrail-backend ---
+[INFO] Changes detected - recompiling the module! :source
+[INFO] Compiling 24 source files with javac [debug release 17] to target\classes
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  4.164 s
+[INFO] Finished at: 2026-04-13T18:01:43+05:30
+[INFO] ------------------------------------------------------------------------

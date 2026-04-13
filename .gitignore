@@ -1,0 +1,44 @@
+# ═══ Node.js ═══
+node_modules/
+dist/
+build/
+.env
+.env.local
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ═══ Java / Maven ═══
+Backend/target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+hs_err_pid*
+
+# ═══ IDE ═══
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+.project
+.classpath
+.settings/
+*.iml
+
+# ═══ OS ═══
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
+
+# ═══ Build ═══
+*.env
+.cache/
+.parcel-cache/
