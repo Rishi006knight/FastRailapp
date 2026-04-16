@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://fastrail-backend.onrender.com/api/:path*"
+      "destination": "https://fastrailapps.onrender.com/api/:path*"
     }
   ]
 }
